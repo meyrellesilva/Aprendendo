@@ -1,2 +1,2 @@
-# Challenge-1-Sprint-01-ALURA
-Construção de um decodificador de texto com o uso do JavaScript, do HTML e do CSS
+# Exercícios
+Por mais desorganizado que aparente estar, só estou tentando guardar alguns exercícios executados durante o meu aprendizado.
